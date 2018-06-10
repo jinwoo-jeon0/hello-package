@@ -1,3 +1,0 @@
-[submodule "src/hello-submodule"]
-	path = src/hello-submodule
-	url = https://github.com/jinwoo-jeon0/hello-submodule.git
