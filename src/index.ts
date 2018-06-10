@@ -1,3 +1,5 @@
+import { say } from './hello-submodule';
+
 export function hello() {
-    console.log('hello-package');
+    say();
 }
