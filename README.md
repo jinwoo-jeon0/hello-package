@@ -1,1 +1,1 @@
-# hello-package
+# Use as a package
